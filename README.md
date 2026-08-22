@@ -46,7 +46,7 @@
       <p>
         Soy estudiante de <strong> 8.º ciclo de Ingeniería de Software</strong.
         Mi perfil está orientado al ecosistema de datos, especialmente a
-        <strong>Ingeniería de Datos, Analítica e Inteligencia de Negocios</strong>.
+        <strong> Ingeniería de Datos, Analítica e Inteligencia de Negocios</strong>.
       </p>
       <p>
         He fortalecido mi experiencia práctica mediante proyectos propios de
