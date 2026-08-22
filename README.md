@@ -57,8 +57,7 @@
   <tr>
     <td width="66%" valign="top">
       <p>
-        Soy estudiante de <strong>8.º ciclo de Ingeniería de Software</strong> en la
-        Universidad Tecnológica del Perú y pertenezco al <strong>tercio superior</strong>.
+        Soy estudiante de <strong> de Ingeniería de Software</strong>.
         Mi perfil está orientado al ecosistema de datos, especialmente a
         <strong>Ingeniería de Datos, Analítica e Inteligencia de Negocios</strong>.
       </p>
@@ -77,8 +76,6 @@
     <td width="34%" valign="top">
       <h3 align="center">🎯 Perfil profesional</h3>
       <p>🎓 <strong>Formación:</strong> Ingeniería de Software</p>
-      <p>📚 <strong>Ciclo:</strong> 8.º</p>
-      <p>🏅 <strong>Rendimiento:</strong> Tercio superior</p>
       <p>📊 <strong>Enfoque:</strong> Datos y Analítica</p>
       <p>🚀 <strong>Objetivo:</strong> Prácticas en datos</p>
     </td>
