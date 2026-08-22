@@ -64,11 +64,6 @@
         almacenes de datos y dashboards</strong>, trabajando principalmente con
         Python, SQL, Power BI, Microsoft Fabric y Azure.
       </p>
-      <p>
-        Actualmente busco mi <strong>primera práctica preprofesional</strong> para aportar
-        esta base técnica, aprender con mentoría y seguir desarrollándome en un
-        entorno real de datos.
-      </p>
     </td>
     <td width="34%" valign="top">
       <h3 align="center">🎯 Perfil profesional</h3>
