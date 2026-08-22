@@ -286,9 +286,7 @@
 <a href="https://www.linkedin.com/in/marroquinrj">
   <img alt="Conectar por LinkedIn" src="https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:jorge.marroquin1906@gmail.com">
-  <img alt="Contactar por correo" src="https://img.shields.io/badge/Escr%C3%ADbeme-Correo-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
+
 
 <br><br>
 
