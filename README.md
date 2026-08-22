@@ -38,9 +38,6 @@
 <a href="https://marro-jr.github.io/Portfolio-marro/">
   <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20proyectos-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
-<a href="mailto:jorge.marroquin1906@gmail.com">
-  <img alt="Correo electrónico" src="https://img.shields.io/badge/Correo-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 <br><br>
 
