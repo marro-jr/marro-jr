@@ -64,8 +64,6 @@
     <td width="34%" valign="top">
       <h3 align="center">🎯 Perfil profesional</h3>
       <p>🎓 <strong>Formación:</strong> Ingeniería de Software</p>
-      <p>📚 <strong>Ciclo:</strong> 8.º</p>
-      <p>🏅 <strong>Rendimiento:</strong> Tercio superior</p>
       <p>📊 <strong>Enfoque:</strong> Datos y Analítica</p>
       <p>🚀 <strong>Objetivo:</strong> Prácticas en datos</p>
     </td>
