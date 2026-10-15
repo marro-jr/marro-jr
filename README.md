@@ -6,10 +6,10 @@
 
 <div align="center">
 
-<!-- ==================== BANNER ANIMADO ==================== -->
+<!-- ==================== BANNER ANIMADO (CORREGIDO) ==================== -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1E40AF,80:2563EB,100:06B6D4&text=Jorge%20Marroqu%C3%ADn&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1E40AF,80:2563EB,100:06B6D4&text=Jorge%20Marroqu%C3%ADn&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Software%20%7C%20Desarrollo%20Backend%20y%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn&section=header"
   alt="Jorge Marroquín"
 />
 
