@@ -1,47 +1,43 @@
 <!-- =========================================================
      README DE PERFIL — github.com/marro-jr
-     Paleta: azul Azure · azul profundo · cian
+     Enfoque: Ingeniería de Software · Backend & Full Stack
+     Paleta: Azul noche · Azul Azure · Cian
      ========================================================= -->
 
 <div align="center">
 
-<!-- ==================== BANNER ==================== -->
-
+<!-- ==================== BANNER ANIMADO ==================== -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1E40AF,50:2563EB,100:0891B2&text=Jorge%20Marroqu%C3%ADn&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Software%20%7C%20Datos%20y%20Anal%C3%ADtica&descAlignY=58&descSize=18&animation=fadeIn&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1E40AF,80:2563EB,100:06B6D4&text=Jorge%20Marroqu%C3%ADn&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Ingenier%C3%ADa%20de%20Software%20%7C%20Backend%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn&section=header"
   alt="Jorge Marroquín"
 />
 
-<!-- ==================== TEXTO ANIMADO ==================== -->
+<!-- ==================== TEXTO EN MOVIMIENTO ==================== -->
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=48&lines=Desarrollo+Backend+%26+Full+Stack+%E2%80%A2+APIs+REST;Java+(Spring+Boot)+%E2%80%A2+C%23+(ASP.NET+Core)+%E2%80%A2+Node.js;Angular+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+SQL+Server+%26+MySQL;Arquitectura+por+Capas+%E2%80%A2+Seguridad+JWT+%E2%80%A2+Testing"
+    alt="Presentación animada"
+  />
+</a>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Ingenier%C3%ADa+de+Datos+%E2%80%A2+Anal%C3%ADtica+%E2%80%A2+BI;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Microsoft+Fabric+%E2%80%A2+Azure+%E2%80%A2+Arquitectura+Medallion;De+datos+sin+procesar+a+informaci%C3%B3n+%C3%BAtil"
-  alt="Presentación animada"
-/>
+<br><br>
 
-<br>
-
-<!-- =========================================================
-     README DE PERFIL — github.com/marro-jr
-     Paleta: azul noche · azul Azure · cian
-     ========================================================= -->
-
-<div align="center">
-
-
-<br>
-
+<!-- ==================== BOTONES DE CONTACTO ==================== -->
 <a href="https://www.linkedin.com/in/marroquinrj">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jorge%20Marroqu%C3%ADn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="mailto:jorge.marroquin1906@gmail.com">
+  <img alt="Correo" src="https://img.shields.io/badge/Email-Contacto%20Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 <a href="https://marro-jr.github.io/Portfolio-marro/">
-  <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20proyectos-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Ver%20Proyectos-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <br><br>
 
 <img alt="Ubicación: Lima, Perú" src="https://img.shields.io/badge/Lima%2C%20Per%C3%BA-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8">
+<img alt="UTP 7mo Ciclo - Tercio Superior" src="https://img.shields.io/badge/UTP-7.%C2%BA%20Ciclo%20%7C%20Tercio%20Superior-1E3A8A?style=flat-square&logo=googlescholar&logoColor=38BDF8">
 <img alt="Disponible para prácticas preprofesionales" src="https://img.shields.io/badge/Disponible%20para%20pr%C3%A1cticas%20preprofesionales-16A34A?style=flat-square&logo=checkmarx&logoColor=white">
 
 </div>
@@ -52,243 +48,203 @@
 
 <table>
   <tr>
-    <td width="66%" valign="top">
+    <td width="65%" valign="top">
       <p>
-        Soy estudiante de <strong> de Ingeniería de Software</strong>.
-        Mi perfil está orientado al ecosistema de datos, especialmente a
-        <strong>Ingeniería de Datos, Analítica e Inteligencia de Negocios</strong>.
+        Soy estudiante de <strong>7.º ciclo de Ingeniería de Software</strong> en la UTP (<strong>Tercio Superior</strong>), enfocado en el desarrollo <strong>Backend y Full Stack</strong>.
       </p>
       <p>
-        He fortalecido mi experiencia práctica mediante proyectos propios de
-        <strong>ETL/ELT, arquitectura Medallion, modelado dimensional, pipelines,
-        almacenes de datos y dashboards</strong>, trabajando principalmente con
-        Python, SQL, Power BI, Microsoft Fabric y Azure.
+        Desarrollo aplicaciones web integrando <strong>Java/Spring Boot, C#/ASP.NET Core y Node.js/Express</strong> con interfaces en <strong>Angular y React</strong>, aplicando arquitectura por capas, principios <strong>SOLID</strong>, autenticación <strong>JWT</strong>, persistencia relacional y pruebas automatizadas.
       </p>
     </td>
-    <td width="34%" valign="top">
-      <h3 align="center">🎯 Perfil profesional</h3>
-      <p>🎓 <strong>Formación:</strong> Ingeniería de Software</p>
-      <p>📊 <strong>Enfoque:</strong> Datos y Analítica</p>
-      <p>🚀 <strong>Objetivo:</strong> Prácticas en datos</p>
+    <td width="35%" valign="top">
+      <h3 align="center">🎯 Foco Profesional</h3>
+      <p>🎓 <strong>Carrera:</strong> Ing. de Software (7.º ciclo)</p>
+      <p>🏅 <strong>Mérito:</strong> Tercio Superior</p>
+      <p>⚙️ <strong>Rol:</strong> Backend / Full Stack</p>
+      <p>🚀 <strong>Meta:</strong> Prácticas preprofesionales</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Stack tecnológico
+## 🧰 Stack Tecnológico
 
 <div align="center">
 
-<h3>Lenguajes, análisis y BI</h3>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>☕ Lenguajes</h4>
+      <img src="https://skillicons.dev/icons?i=java,cs,ts,js,py&theme=dark" alt="Lenguajes" />
+      <br>
+      <sub>Java · C# · TypeScript · JavaScript · Python</sub>
+    </td>
+    <td align="center" width="34%">
+      <h4>⚙️ Backend & BD</h4>
+      <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express,mysql,azure&theme=dark" alt="Backend y BD" />
+      <br>
+      <sub>Spring Boot · ASP.NET Core · Node/Express · SQL Server · MySQL</sub>
+    </td>
+    <td align="center" width="33%">
+      <h4>🎨 Frontend & Herramientas</h4>
+      <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,git,postman&theme=dark" alt="Frontend y Herramientas" />
+      <br>
+      <sub>Angular · React · HTML5/CSS3 · Bootstrap · Git · Postman</sub>
+    </td>
+  </tr>
+</table>
 
-<img alt="Python intermedio" src="https://img.shields.io/badge/Python-Intermedio-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img alt="SQL intermedio avanzado" src="https://img.shields.io/badge/SQL-Intermedio--avanzado-0F172A?style=for-the-badge&logoColor=white">
-<img alt="Power BI intermedio" src="https://img.shields.io/badge/Power%20BI-Intermedio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img alt="Excel intermedio" src="https://img.shields.io/badge/Excel-Intermedio-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img alt="JPA / Hibernate" src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
+<img alt="Entity Framework Core" src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img alt="Swagger / OpenAPI" src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+<img alt="JWT Security" src="https://img.shields.io/badge/JWT%20%26%20BCrypt-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
 
-<br><br>
-
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img alt="DAX" src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-<img alt="Scripting" src="https://img.shields.io/badge/Scripting-1E3A8A?style=flat-square">
-<img alt="Automatización" src="https://img.shields.io/badge/Automatizaci%C3%B3n-2563EB?style=flat-square">
+</div>
 
 <br>
 
-<sub>
-  SQL: joins · subconsultas · CTE · vistas · funciones de ventana · agregaciones · DDL/DML · procedimientos almacenados
-</sub>
+<!-- ==================== DESPLEGABLE INTERACTIVO ==================== -->
+<details>
+  <summary><b>⚡ Haz clic para ver: Arquitectura, Pruebas de Software (Testing) e IA</b></summary>
+  <br>
+  <ul>
+    <li><b>Arquitectura y Fundamentos:</b> Principios SOLID, POO, MVC, Arquitectura por Capas (Controller–Service–Repository), APIs REST, DTOs, Inyección de Dependencias y manejo centralizado de excepciones.</li>
+    <li><b>Testing Automatizado:</b> Pruebas unitarias y de integración con <code>JUnit</code>, <code>Mockito</code>, <code>MockMvc</code> (Java), <code>xUnit</code> (.NET), <code>Jest</code> y <code>Supertest</code> (Node.js).</li>
+    <li><b>Bases de Datos Relacionales:</b> Modelado E-R, diseño lógico/físico, Joins, Subconsultas, CTEs, LINQ, consultas parametrizadas y control transaccional.</li>
+    <li><b>IA & Complementarios:</b> Desarrollo asistido con <i>Antigravity</i> y <i>OpenAI Codex</i>; análisis de datos con Pandas, Power BI y fundamentos de Azure.</li>
+  </ul>
+</details>
 
-<h3>Ingeniería de datos y nube</h3>
+---
 
-<img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-1267E5?style=for-the-badge&logo=microsoft&logoColor=white">
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-<img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-<img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white">
+## 💻 Proyectos Destacados de Software
 
-<br><br>
-
-<img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-<img alt="Azure Data Lake Storage Gen2" src="https://img.shields.io/badge/ADLS%20Gen2-0EA5E9?style=flat-square&logo=microsoftazure&logoColor=white">
-<img alt="OneLake" src="https://img.shields.io/badge/OneLake-1267E5?style=flat-square&logo=microsoft&logoColor=white">
-<img alt="Lakehouse" src="https://img.shields.io/badge/Lakehouse-1D4ED8?style=flat-square">
-<img alt="Warehouse" src="https://img.shields.io/badge/Warehouse-1E40AF?style=flat-square">
-<img alt="Pipelines" src="https://img.shields.io/badge/Pipelines-2563EB?style=flat-square">
-<img alt="Dataflows Gen2" src="https://img.shields.io/badge/Dataflows%20Gen2-3B82F6?style=flat-square">
-<img alt="Notebooks" src="https://img.shields.io/badge/Notebooks-F59E0B?style=flat-square">
-<img alt="Copy Job" src="https://img.shields.io/badge/Copy%20Job-0284C7?style=flat-square">
-
-<h3>Modelado y arquitectura de datos</h3>
-
-<img alt="ETL y ELT" src="https://img.shields.io/badge/ETL%20%2F%20ELT-0F172A?style=for-the-badge">
-<img alt="Arquitectura Medallion" src="https://img.shields.io/badge/Arquitectura%20Medallion-2563EB?style=for-the-badge">
-<img alt="Modelo estrella" src="https://img.shields.io/badge/Modelo%20estrella-4F46E5?style=for-the-badge">
-<img alt="Modelo entidad relación" src="https://img.shields.io/badge/Entidad--relaci%C3%B3n-6366F1?style=for-the-badge">
-
-<h3>Herramientas</h3>
-
-<a href="https://git-scm.com/">
-  <img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark">
-</a>
-<a href="https://github.com/marro-jr">
-  <img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark">
-</a>
-<a href="https://azure.microsoft.com/">
-  <img alt="Azure" src="https://skillicons.dev/icons?i=azure&theme=dark">
-</a>
-
-<br><br>
-
-<img alt="Azure Storage Explorer" src="https://img.shields.io/badge/Azure%20Storage%20Explorer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Sistema de Pedidos e Inventario</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+        <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square" alt="EF Core">
+        <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+      </p>
+      <p>
+        Aplicación Full Stack para gestionar productos, pedidos y existencias en tiempo real mediante una API REST por capas.
+      </p>
+      <ul>
+        <li>Validación de stock, cálculo en servidor y registro transaccional conservando precios históricos.</li>
+        <li>Implementación de DTOs, consultas LINQ y documentación interactiva con <b>Swagger/OpenAPI</b>.</li>
+        <li>Pruebas unitarias con <b>xUnit</b> para reglas de negocio, disponibilidad y cálculos.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/marro-jr/SISTEMA-PEDIDOS-CONTROL-INVENTARIO">
+          <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Plataforma de Reseñas de Cursos</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+      </p>
+      <p>
+        Sistema web para consultar cursos, publicar valoraciones y moderar contenido integrando React con Spring Boot.
+      </p>
+      <ul>
+        <li>Seguridad con <b>JWT</b>, encriptación <b>BCrypt</b> y control de acceso basado en roles y propiedad.</li>
+        <li>Arquitectura <i>Controller–Service–Repository</i> con JPA/Hibernate, DTOs y validaciones.</li>
+        <li>Suite de pruebas con <b>JUnit, Mockito y MockMvc</b> (autenticación, duplicados y permisos).</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/marro-jr/PLATAFORMA-RESERVAS-CURSOS">
+          <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center">🏢 Sistema Web de Reservas de Espacios</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/Jest%20%26%20Supertest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+      </p>
+      <p align="center">
+        Aplicación web responsive para consultar disponibilidad, agendar y cancelar reservas de espacios evitando cruces de horarios.
+      </p>
+      <ul>
+        <li><b>Backend transaccional:</b> API REST por capas con consultas SQL parametrizadas, validación de fechas y transacciones para bloquear horarios superpuestos.</li>
+        <li><b>Seguridad y calidad:</b> Generación de códigos privados de consulta/cancelación almacenados como hash, colección Postman y pruebas de endpoints con <b>Jest y Supertest</b>.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/marro-jr/SISTEMA-RESERVAS-ESPACIOS">
+          <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏅 Certificaciones
 
+<div align="center">
+
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img alt="DataCamp Certified" src="https://img.shields.io/badge/DataCamp-Certified-03EF62?style=for-the-badge&logo=datacamp&logoColor=black">
+    <td align="center" width="33%">
+      <img alt="Microsoft Certified" src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
       <br><br>
-      <strong>Data Engineer Associate</strong>
-      <br>
-      <sub>Agosto de 2026</sub>
-      <br><br>
-      <a href="https://www.datacamp.com/certificate/DEA0011209930077">
-        <img alt="Ver credencial de DataCamp" src="https://img.shields.io/badge/Ver%20credencial-111827?style=flat-square&logo=datacamp&logoColor=03EF62">
-      </a>
+      <strong>Azure Fundamentals</strong>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img alt="Microsoft Certified" src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
+    <td align="center" width="34%">
+      <img alt="Microsoft Certified" src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
       <br><br>
-      <strong>Azure Data Fundamentals (DP-900)</strong>
-      <br>
-      <sub>Marzo de 2026</sub>
+      <strong>Azure Data Fundamentals</strong>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img alt="Microsoft Certified" src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-      <br><br>
-      <strong>Azure Fundamentals (AZ-900)</strong>
-      <br>
-      <sub>Febrero de 2026</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img alt="Cisco Networking Academy" src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+    <td align="center" width="33%">
+      <img alt="Cisco" src="https://img.shields.io/badge/Cisco-Python%202-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
       <br><br>
       <strong>Python Essentials 2</strong>
-      <br>
-      <sub>Marzo de 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img alt="Cisco Networking Academy" src="https://img.shields.io/badge/Cisco-Networking%20Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-      <br><br>
-      <strong>Introduction to Networks (ITN)</strong>
-      <br>
-      <sub>Diciembre de 2025</sub>
     </td>
   </tr>
 </table>
-
----
-
-## 🌐 Portafolio
-
-<div align="center">
-
-<h3>Proyectos de Ingeniería de Datos y Analítica</h3>
-
-<p>
-  Revisa la arquitectura, los pipelines, los procesos de transformación,
-  los modelos analíticos y los dashboards desarrollados en mis proyectos.
-</p>
-
-<a href="https://marro-jr.github.io/Portfolio-marro/">
-  <img alt="Explorar mi portafolio" src="https://img.shields.io/badge/EXPLORAR%20MI%20PORTAFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<br><br>
 
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Smart Device Analytics Platform</h3>
-      <p align="center">
-        <img alt="Proyecto académico" src="https://img.shields.io/badge/Proyecto-acad%C3%A9mico-64748B?style=flat-square">
-        <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft%20Fabric-1267E5?style=flat-square&logo=microsoft&logoColor=white">
-        <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-      </p>
-      <p>
-        Plataforma end-to-end en Microsoft Fabric para procesar y analizar
-        información de más de <strong>24 000 dispositivos inteligentes</strong>.
-      </p>
-      <ul>
-        <li>Integración de ADLS Gen2 mediante OneLake Shortcut.</li>
-        <li>Arquitectura Medallion con capas Bronze, Silver y Gold.</li>
-        <li>PySpark, tablas Delta, Dataflows Gen2 y notebooks parametrizados.</li>
-        <li>Pipelines con validaciones, carga incremental y alertas por correo.</li>
-        <li>Warehouse, modelo semántico, reporte y dashboard en Power BI.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/marro-jr/smart-device-analytics-fabric">
-          <img alt="Ver repositorio de Smart Device Analytics Platform" src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ Data Warehouse moderno en Azure</h3>
-      <p align="center">
-        <img alt="Proyecto académico" src="https://img.shields.io/badge/Proyecto-acad%C3%A9mico-64748B?style=flat-square">
-        <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
-        <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-      </p>
-      <p>
-        Solución de Ingeniería de Datos en Azure para analizar el abandono de
-        aproximadamente <strong>7 000 clientes</strong>.
-      </p>
-      <ul>
-        <li>ETL con Python y Pandas, protección mediante hashing y salida Parquet.</li>
-        <li>ADLS Gen2, Azure Data Factory y Azure SQL Database.</li>
-        <li>Modelo dimensional tipo estrella con cargas idempotentes.</li>
-        <li>Dashboard de Power BI para analizar una tasa de abandono de 26,5 %.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/marro-jr/modern-data-warehouse-azure">
-          <img alt="Ver repositorio del Data Warehouse en Azure" src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+## 📊 Actividad en GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marro-jr&show_icons=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=2563EB&border_color=1E3A8A&hide_border=false" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marro-jr&layout=compact&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=1E3A8A&hide_border=false" alt="Top Languages" />
+</div>
 
 <div align="center">
 
 <br>
 
-<strong>ETL/ELT · Arquitectura Medallion · Modelado dimensional · Dashboards</strong>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/marroquinrj">
-  <img alt="Conectar por LinkedIn" src="https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
+<strong>APIs REST · Arquitectura por Capas · Seguridad JWT · Pruebas Automatizadas</strong>
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:DBEAFE,35:7DD3FC,70:3B82F6,100:1D4ED8&section=footer">
-  <img width="100%" alt="Pie de página decorativo" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&section=footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:DBEAFE,35:7DD3FC,70:3B82F6,100:1D4ED8&section=footer">
+  <img width="100%" alt="Pie de página decorativo" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&section=footer">
 </picture>
 
 </div>
