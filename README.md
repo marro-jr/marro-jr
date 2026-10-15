@@ -58,7 +58,7 @@
     </td>
     <td width="35%" valign="top">
       <h3 align="center">🎯 Foco Profesional</h3>
-      <p>🎓 <strong>Carrera:</strong> Ing. de Software (7.º ciclo)</p>
+      <p>🎓 <strong>Carrera:</strong> Estudiante Ing. de Software </p>
       <p>🏅 <strong>Mérito:</strong> Tercio Superior</p>
       <p>⚙️ <strong>Rol:</strong> Backend / Full Stack</p>
       <p>🚀 <strong>Meta:</strong> Prácticas preprofesionales</p>
@@ -224,27 +224,4 @@
 
 </div>
 
----
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marro-jr&show_icons=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&icon_color=2563EB&border_color=1E3A8A&hide_border=false" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marro-jr&layout=compact&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0&border_color=1E3A8A&hide_border=false" alt="Top Languages" />
-</div>
-
-<div align="center">
-
-<br>
-
-<strong>APIs REST · Arquitectura por Capas · Seguridad JWT · Pruebas Automatizadas</strong>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:DBEAFE,35:7DD3FC,70:3B82F6,100:1D4ED8&section=footer">
-  <img width="100%" alt="Pie de página decorativo" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:020617,40:0F172A,75:1D4ED8,100:06B6D4&section=footer">
-</picture>
-
-</div>
