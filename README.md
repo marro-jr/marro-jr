@@ -164,7 +164,7 @@
         <li>Suite de pruebas con <b>JUnit, Mockito y MockMvc</b> (autenticación, duplicados y permisos).</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/marro-jr/PLATAFORMA-RESE-AS-CURSOS">
+        <a href="https://github.com/marro-jr/PLATAFORMA-RESERVAS-CURSOS">
           <img src="https://img.shields.io/badge/VER%20REPOSITORIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
         </a>
       </p>
